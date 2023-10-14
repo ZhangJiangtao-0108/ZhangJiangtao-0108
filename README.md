@@ -1,4 +1,4 @@
-### Hi there 👋
+### Nice to meet you. 👋
 
 <!--
 **ZhangJiangtao-0108/ZhangJiangtao-0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://visitor-badge.glitch.me/badge?page_id=ZhangJiangtao-0108.readme)
-- 🔭 I'm ZhangJiangtao.
-- 🌱 I'm currently studying for my doctorate at Hefei University of Technology.
+- 🔭 I'm ZhangJiangtao, .
+- 🌱 I'm currently working on my PhD at Hefei University of Technology.
+- 👯 My main research focus on multimodal sign language recognition and translation.
+- 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ZhangJiangtao-0108&show_icons=true&theme=tokyonight" /> </div>
 
 #### Platform & Tools
 ---
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-![](https://img.shields.io/badge/python-3.9-blue)
+[![](https://img.shields.io/badge/python-3.9-blue)](https://www.python.org/)
+[![](https://img.shields.io/badge/PyTorch-1.9-yellow)](https://pytorch.org/)
 
