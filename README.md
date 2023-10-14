@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - 🔭 I'm ZhangJiangtao.
 - 🌱 I'm currently studying for my doctorate at Hefei University of Technology.
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ZhangJiangtao-0108&show_icons=true&theme=tokyonight" /> </div>
+
 #### Platform & Tools
-https://img.shields.io/badge/python-3.9-orange
+---
+[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 
 
