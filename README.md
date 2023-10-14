@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://visitor-badge.glitch.me/badge?page_id=ZhangJiangtao-0108.readme)
+- 🔭 I'm ZhangJiangtao.
+- 🌱 I'm currently studying for my doctorate at Hefei University of Technology.
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ZhangJiangtao-0108&show_icons=true&theme=tokyonight" /> </div>
+#### Platform & Tools
+https://img.shields.io/badge/python-3.9-orange
 
-- I'm ZhangJiangtao.
-- I'm currently studying for my doctorate at Hefei University of Technology.
+
