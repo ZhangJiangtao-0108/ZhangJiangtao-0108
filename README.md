@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I have open sourced a sensor modality-based (sEMG and IMU) sign language gesture data processing library [DataPreProcess_packages](https://github.com/ZhangJiangtao-0108/DataPreProcess_packages), which allows users to easily process sEMG and IMU data.
 
-In addition, I have open-sourced partal sign language recognition database [OH-Sentence](https://github.com/ZhangJiangtao-0108/OH-Sentence_Dataset) based on sEMG and IMU sensors.If you are a sign language related researcher and need to use our database, please contact me (zhangjiangtao@mail.hfut.edu.cn).
+In addition, I have open-sourced partal sign language recognition database [OH-Sentence](https://github.com/ZhangJiangtao-0108/OH-Sentence_Dataset) based on sensor (sEMG & IMU) and [MM-Sentence](https://github.com/ZhangJiangtao-0108/MM-Sentence_Dataset) based visal (RGB & Skeletal) and sensor (sEMG & IMU). If you are a sign language related researcher and need to use our database, please contact me (zhangjiangtao@mail.hfut.edu.cn).
   
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ZhangJiangtao-0108&show_icons=true&theme=tokyonight" /> </div>
 
