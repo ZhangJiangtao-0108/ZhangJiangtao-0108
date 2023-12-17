@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://visitor-badge.glitch.me/badge?page_id=ZhangJiangtao-0108.readme)
-- 🔭 I'm ZhangJiangtao, .
+- 🔭 I'm **ZhangJiangtao**.
 - 🌱 I'm currently working on my PhD at Hefei University of Technology.
 - 👯 My major research focuses on multimodal sign language recognition and translation.
 
 I have open sourced a sensor modality-based (sEMG and IMU) sign language gesture data processing library [DataPreProcess_packages](https://github.com/ZhangJiangtao-0108/DataPreProcess_packages), which allows users to easily process sEMG and IMU data.
 
-In addition, I have open-sourced partal sign language recognition database [OH-Sentence](https://github.com/ZhangJiangtao-0108/OH-Sentence_Dataset) based on sensor (sEMG & IMU) and [MM-Sentence](https://github.com/ZhangJiangtao-0108/MM-Sentence_Dataset) based visal (RGB & Skeletal) and sensor (sEMG & IMU). If you are a sign language related researcher and need to use our database, please contact me (zhangjiangtao@mail.hfut.edu.cn).
+In addition, I have open-sourced partal sign language recognition database [OH-Sentence](https://github.com/ZhangJiangtao-0108/OH-Sentence_Dataset) based on sensor (**sEMG & IMU**) and [MM-Sentence](https://github.com/ZhangJiangtao-0108/MM-Sentence_Dataset) based visal (**RGB & Skeletal**) and sensor (**sEMG & IMU**). If you are a sign language related researcher and need to use our database, please contact me (zhangjiangtao@mail.hfut.edu.cn).
   
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ZhangJiangtao-0108&show_icons=true&theme=tokyonight" /> </div>
 
